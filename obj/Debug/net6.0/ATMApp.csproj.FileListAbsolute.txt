@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/ATMApp/bin/Debug/net6.0/ATMApp
+/Users/ugurcanyagmur/Projects/ATMApp/bin/Debug/net6.0/ATMApp.deps.json
+/Users/ugurcanyagmur/Projects/ATMApp/bin/Debug/net6.0/ATMApp.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/ATMApp/bin/Debug/net6.0/ATMApp.dll
+/Users/ugurcanyagmur/Projects/ATMApp/bin/Debug/net6.0/ATMApp.pdb
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.dll
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/refint/ATMApp.dll
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.pdb
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ATMApp.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/ATMApp/obj/Debug/net6.0/ref/ATMApp.dll
